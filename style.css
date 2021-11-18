@@ -4,7 +4,8 @@ body
   margin: 0;
   height:auto;
   width:auto;
-  background: url(back2.jpg);
+  background: url('back2.jpg');
+  background-repeat: no-repeat;
   font-family: 'Open Sans', sans-serif;
   overflow-y: hidden;
   overflow-x: hidden;
