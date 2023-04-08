@@ -1,0 +1,22 @@
+{
+  "name": "MyPortfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya-kumar-147/MyPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyclic-software/starter-express-api/issues"
+  },
+  "homepage": "https://github.com/Aditya-kumar-147/MyPortfolio",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
